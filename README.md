@@ -10,6 +10,5 @@ Untuk melihatnya secara lokal, buka `index.html` di browser.
 ## Kredit foto
 
 Foto galeri dari Unsplash (lisensi Unsplash):
-- Foto 1: Jonathan Borba, https://unsplash.com/photos/21tOEaJPM_o
-- Foto 2: NAMA FOTOGRAFER, ALAMAT HALAMAN FOTO
-- Foto 3: Clement Proust, https://unsplash.com/photos/nD2kZmE6dMQ
+- kopi-1.jpg: Jonathan Borba, https://unsplash.com/photos/21tOEaJPM_o
+- kopi-3.jpg: Clement Proust, https://unsplash.com/photos/nD2kZmE6dMQ
